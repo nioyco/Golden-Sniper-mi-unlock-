@@ -1,5 +1,42 @@
 ![Development Status](https://img.shields.io/badge/Next_Target-Pad_7_Pro_(muyu)-FFD700?style=for-the-badge&logo=xiaomi)
 
+# 🎯 Golden Sniper : Mi Unlock Bypass
+![GitHub License](https://img.shields.io/github/license/nioyco/Golden-Sniper-mi-unlock-)
+![Python Version](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
+![Next Target](https://img.shields.io/badge/Next_Target-Pad_7_Pro_(muyu)-FFD700?style=flat-square&logo=xiaomi)
+
+**Golden Sniper** est un outil d'ingénierie réseau automatisé conçu pour sécuriser votre créneau de déverrouillage de bootloader Xiaomi (HyperOS) à la milliseconde près.
+
+---
+
+## 📖 Sommaire
+1. [🚀 Fonctionnalités](#-fonctionnalités)
+2. [🛠️ Pré-requis & Installation](#️-pré-requis--installation)
+3. [💻 Guide par Plateforme](#-guide-par-plateforme)
+4. [🎯 Utilisation (Le Tir)](#-utilisation-le-tir)
+5. [⚡ Coming Soon : Muyu Edition](#-coming-soon--muyu-edition)
+
+---
+
+## 🚀 Fonctionnalités
+- **NTC Sync :** Synchronisation ultra-précise avec les serveurs de temps mondiaux.
+- **Multi-Slot Burst :** Envoi de 40 requêtes simultanées pour saturer les quotas au moment T.
+- **Auto-Capture :** Initialisation automatique des tokens via interception de flux.
+- **Analytic Logs :** Rapport de combat détaillé (`RAPPORT_COMBAT_TOTAL.txt`) après chaque tentative.
+
+---
+
+## 🛠️ Pré-requis & Installation
+
+### 1. Installation universelle
+```bash
+# Cloner le projet
+git clone [https://github.com/nioyco/Golden-Sniper-mi-unlock-.git](https://github.com/nioyco/Golden-Sniper-mi-unlock-.git)
+cd Golden-Sniper-mi-unlock-
+
+# Installer les dépendances
+pip install -r requirements.txt
+
 # Golden-Sniper-mi-unlock-
 Advanced HyperOS Bootloader Unlock Tool - Precision Network Engineering for All Xiaomi HyperOS Devices
 
