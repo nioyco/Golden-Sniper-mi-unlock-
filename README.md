@@ -37,6 +37,8 @@ cd Golden-Sniper-mi-unlock-
 # Installer les dépendances
 pip install -r requirements.txt
 
+```
+
 # Golden-Sniper-mi-unlock-
 Advanced HyperOS Bootloader Unlock Tool - Precision Network Engineering for All Xiaomi HyperOS Devices
 
